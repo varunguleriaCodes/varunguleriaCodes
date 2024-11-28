@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
-- 👯 I’m looking to collaborate on **Python, TypeScript projects.**
+- 👯 I’m looking to collaborate on **Python, Ethereum, TypeScript projects.**
 
 - 📫 How to reach me **varunguleria1700@gmail.com**
 
